@@ -1,7 +1,6 @@
-# Thinkpad-T470s-OpenCore-Monterey
-Install Big Sur kemudian upgrade ke Monterey di Thinkpad T470s
+# Thinkpad T470s OpenCore Monterey
 
-Spesifikasi :
+## Spesifikasi :
 
     Intel i7 7600 Kaby Lake Processor
     RAM 16GB
@@ -13,7 +12,7 @@ Spesifikasi :
     Opencore 0.8.4
 
 
-Worked:
+## Worked:
 
     USB 3.0 ports
     Touchpad gesture
@@ -23,7 +22,7 @@ Worked:
     Soundcard
 
 
-Not tested:
+## Not tested:
 
     Bluetooth
     Thunderbolt
