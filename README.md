@@ -20,11 +20,11 @@
     Backlit pada keyboard
     Brightness fn keyboard
     Soundcard
+    Bluetooth
 
 
 ## Not tested:
 
-    Bluetooth
     Thunderbolt
     HDMI
     Sound via HDMI
