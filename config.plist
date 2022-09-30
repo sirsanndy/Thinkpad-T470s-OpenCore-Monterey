@@ -278,7 +278,7 @@
 			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>EAED</data>
+				<data>AdAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -286,21 +286,19 @@
 				<data>AAAWWQ==</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<integer>1</integer>
-				<key>framebuffer-con1-alldata</key>
-				<data>AQUKAAAIAACHAQAAAwYKAAAEAACHAQAA/wAAAAEAAAAgAAAA</data>
 				<key>framebuffer-patch-enable</key>
-				<integer>1</integer>
+				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
+				<key>model</key>
+				<string>Intel HD Graphics 620</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>KQ==</data>
+				<data>AdAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -310,7 +308,7 @@
 	<dict>
 		<key>Add</key>
 		<array>
-<dict>
+			<dict>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
@@ -1663,23 +1661,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02653500GUHWVPFB</string>
+			<string>C02820310CDHRPC1H</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>YJrBEWww</data>
+			<data>bI3BYvDV</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T1DYLHV29</string>
+			<string>C02WQ8ZSHV2N</string>
 			<key>SystemUUID</key>
-			<string>5317223C-E99C-4314-A390-751A58F99B6B</string>
+			<string>81D8783B-66FD-4A2D-A0A8-8762153AE2A7</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
