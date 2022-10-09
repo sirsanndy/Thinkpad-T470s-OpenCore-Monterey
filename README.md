@@ -21,12 +21,11 @@
     Brightness fn keyboard
     Soundcard
     Bluetooth
+    HDMI
 
 
 ## Not tested:
 
     Thunderbolt
-    HDMI
-    Sound via HDMI
 
 
